@@ -32,15 +32,14 @@ Milestone 6 | ──────── ⋆⋅☆⋅⋆ ──────── 
 
 ## Post Common Core
 
-### Algo, AI & Data
-
-Project | Score 
-:--- | :--- 
-DSLR | ???/100
-Gomoku | ???/100
-Leaffliction | ???/100
-Linear Regression | ???/100
-Total Perspective Vortex | ???/100
+Branch | Project | Score 
+:--- | :--- | :--- 
+Algo, AI & Data | ──────── ⋆⋅☆⋅⋆ ──────── |
+| | DSLR | ???/100
+| | Gomoku | ???/100
+| | Leaffliction | ???/100
+| | Linear Regression | ???/100
+| | Total Perspective Vortex | ???/100
 
 ### Cryptography & Maths
 
