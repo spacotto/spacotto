@@ -43,22 +43,12 @@ Branch | Project | Score
 **Cryptography & Maths** | ────── ⋆⋅☆⋅⋆ ────── |
 | | Matrix | ???/100
 | | Ready Set Boole | ???/100
-
-### Development
-
-Project | Score 
-:--- | :--- 
-
-### DevOps & Network
-
-Project | Score 
-:--- | :---
-Inception of Things | ???/100
-
-### Graphics & Gaming
-
-Project | Score 
-:--- | :--- 
+**Development** | ────── ⋆⋅☆⋅⋆ ────── |
+| | ??? | ???/100
+**DevOps & Network** | ────── ⋆⋅☆⋅⋆ ────── |
+| | Inception of Things | ???/100
+**Graphics & Gaming** | ────── ⋆⋅☆⋅⋆ ────── |
+| | ??? | ???/100
 
 ### Security 
 
