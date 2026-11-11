@@ -19,13 +19,28 @@ Project | Language/Technology | Score
 
 ### Milestone 2
 
+Project | Language/Technology | Score
+--- | --- | ---
+
 ### Milestone 3
+
+Project | Language/Technology | Score
+--- | --- | ---
 
 ### Milestone 4
 
+Project | Language/Technology | Score
+--- | --- | ---
+
 ### Milestone 5
 
+Project | Language/Technology | Score
+--- | --- | ---
+
 ### Milestone 6
+
+Project | Language/Technology | Score
+--- | --- | ---
 
 ## Post Common Core
 
