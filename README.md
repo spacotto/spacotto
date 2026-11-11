@@ -32,7 +32,7 @@ Milestone 6 | ──────── ⋆⋅☆⋅⋆ ──────── 
 
 ## Post Common Core
 
-## Algo, AI & Data
+### Algo, AI & Data
 
 Project | Score 
 :--- | :--- 
@@ -42,14 +42,14 @@ Leaffliction | ???/100
 Linear Regression | ???/100
 Total Perspective Vortex | ???/100
 
-## Cryptography & Maths
+### Cryptography & Maths
 
 Project | Score 
 :--- | :--- 
 Matrix | ???/100
 Ready Set Boole | ???/100
 
-## Development
+### Development
 
 Project | Score 
 :--- | :--- 
@@ -74,7 +74,7 @@ Project | Score
 
 Project | Score 
 :--- | :---
-Darkly
+Darkly | ???/100
 [Hypertube](https://github.com/42-Projects-Nadoho/hypertube) | ???/100
 [Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris) | 125/100
 [Swifty Companion](https://github.com/spacotto/swifty-companion) | 110/100
