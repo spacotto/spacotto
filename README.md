@@ -21,6 +21,9 @@ Project | Score
 
 Project | Score
 --- | ---
+[Born2beRoot](https://github.com/spacotto/Born2beRoot) | 125/100
+[Python Modules](https://github.com/spacotto/Python-Modules) | 100/100
+[A-Maze-ing](https://github.com/spacotto/A-Maze-ing) | 125/100
 
 ### Milestone 3
 
