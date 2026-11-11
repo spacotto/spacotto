@@ -4,11 +4,17 @@
 
 ### Milestone 0
 
-Project | Description | Score
+Project | Language/Technology | Score
 --- | --- | ---
-[Libft](https://github.com/spacotto/libft) | The first project at 42 School. It introduces 42 students to C programming. It aims both to reinforce the skills acquired during the "piscine" phase (selection process) by re-implementing standard library functions and to develop utility functions that will prove valuable throughout their curriculum. By mastering these programming tools, students consolidate their foundations and adopt an efficient working methodology. | 125/100
+[Libft](https://github.com/spacotto/libft) | C | 125/100
 
 ### Milestone 1
+
+
+Project | Language/Technology | Score
+--- | --- | ---
+[get_next_line](https://github.com/spacotto/get_next_line) | C | 125/100
+[push_swap](https://github.com/spacotto/push_swap) | C | 125/100
 
 ### Milestone 2
 
