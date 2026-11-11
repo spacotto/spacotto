@@ -13,6 +13,7 @@ Project | Language/Technology | Score
 
 Project | Language/Technology | Score
 --- | --- | ---
+[ft_printf](https://github.com/spacotto/ft_printf) | C | 100/100
 [get_next_line](https://github.com/spacotto/get_next_line) | C | 125/100
 [push_swap](https://github.com/spacotto/push_swap) | C | 125/100
 
