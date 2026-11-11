@@ -3,7 +3,7 @@
 ## Common Core
 
 | | Project | Score
-:--- | :--- | :--- 
+--- | :--- | :--- 
 Milestone 0 | ──────── ⋆⋅☆⋅⋆ ──────── | 
 | | [Libft](https://github.com/spacotto/libft) | 125/100
 Milestone 1 | ──────── ⋆⋅☆⋅⋆ ──────── | 
@@ -32,8 +32,8 @@ Milestone 6 | ──────── ⋆⋅☆⋅⋆ ──────── 
 
 ## Post Common Core
 
-Branch | Project | Score 
-:--- | :--- | :--- 
+| | Project | Score 
+--- | :--- | :--- 
 **Algo, AI & Data** | ────── ⋆⋅☆⋅⋆ ────── |
 | | DSLR | ???/100
 | | Gomoku | ???/100
@@ -49,25 +49,15 @@ Branch | Project | Score
 | | Inception of Things | ???/100
 **Graphics & Gaming** | ────── ⋆⋅☆⋅⋆ ────── |
 | | ??? | ???/100
-
-### Security 
-
-Project | Score 
-:--- | :--- 
-
-### Web & Mobile
-
-Project | Score 
-:--- | :---
-Darkly | ???/100
-[Hypertube](https://github.com/42-Projects-Nadoho/hypertube) | ???/100
-[Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris) | 125/100
-[Swifty Companion](https://github.com/spacotto/swifty-companion) | 110/100
-[Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins) | ???/100
-[Tokenizer](https://github.com/spacotto/Tokenizer) | ???/100
-[TokenizeArt](https://github.com/spacotto/TokenizeArt) | ???/100
-
-### Systems & Kernel 
-
-Project | Score 
-:--- | :--- 
+**Security** | ────── ⋆⋅☆⋅⋆ ────── |
+| | ??? | ???/100
+**Systems & Kernel** | ────── ⋆⋅☆⋅⋆ ────── |
+| | ??? | ???/100
+**Web & Mobile** | ────── ⋆⋅☆⋅⋆ ────── |
+| | Darkly | ???/100
+| | [Hypertube](https://github.com/42-Projects-Nadoho/hypertube) | ???/100
+| | [Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris) | 125/100
+| | [Swifty Companion](https://github.com/spacotto/swifty-companion) | 110/100
+| | [Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins) | ???/100
+| | [Tokenizer](https://github.com/spacotto/Tokenizer) | ???/100
+| | [TokenizeArt](https://github.com/spacotto/TokenizeArt) | ???/100
