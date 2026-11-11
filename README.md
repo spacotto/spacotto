@@ -34,19 +34,15 @@ Milestone 6 | ──────── ⋆⋅☆⋅⋆ ──────── 
 
 Branch | Project | Score 
 :--- | :--- | :--- 
-Algo, AI & Data | ──────── ⋆⋅☆⋅⋆ ──────── |
+**Algo, AI & Data** | ──────── ⋆⋅☆⋅⋆ ──────── |
 | | DSLR | ???/100
 | | Gomoku | ???/100
 | | Leaffliction | ???/100
 | | Linear Regression | ???/100
 | | Total Perspective Vortex | ???/100
-
-### Cryptography & Maths
-
-Project | Score 
-:--- | :--- 
-Matrix | ???/100
-Ready Set Boole | ???/100
+**Cryptography & Maths** | ──────── ⋆⋅☆⋅⋆ ──────── |
+| | Matrix | ???/100
+| | Ready Set Boole | ???/100
 
 ### Development
 
