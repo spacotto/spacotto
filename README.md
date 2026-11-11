@@ -2,10 +2,11 @@
 
 ## Common Core
 
-M | Project | Score
+Milestone | Project | Score
 :--- | :--- | :--- 
-0 | [Libft](https://github.com/spacotto/libft) | 125/100
---- | ------------------ | ---------
+Milestone 0 | ------------------ | ---------
+ | [Libft](https://github.com/spacotto/libft) | 125/100
+Milestone 1 | ------------------ | ---------
 
 ### Milestone 1
 
