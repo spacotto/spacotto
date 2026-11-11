@@ -34,8 +34,8 @@ Milestone 6 | ──────── ⋆⋅☆⋅⋆ ──────── 
 
 ## Algo, AI & Data
 
-Project | Description | Grade 
-:--- | :--- | :--- 
+Project | Score 
+:--- | :--- 
 DSLR 
 Gomoku 
 Leaffliction 
@@ -44,27 +44,36 @@ Total Perspective Vortex
 
 ## Cryptography & Maths
 
-Project | Description | Grade 
-:--- | :--- | :--- 
+Project | Score 
+:--- | :--- 
 Matrix
 Ready Set Boole
 
 ## Development
 
+Project | Score 
+:--- | :--- 
+
 ### DevOps & Network
 
-Project | Description | Grade 
-:--- | :--- | :--- 
+Project | Score 
+:--- | :---
 Inception of Things
 
 ### Graphics & Gaming
 
+Project | Score 
+:--- | :--- 
+
 ### Security 
+
+Project | Score 
+:--- | :--- 
 
 ### Web & Mobile
 
-Project | Description | Grade 
-:--- | :--- | :--- 
+Project | Score 
+:--- | :---
 Darkly
 [Hypertube](https://github.com/42-Projects-Nadoho/hypertube)
 [Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris)
@@ -74,3 +83,6 @@ Darkly
 [TokenizeArt](https://github.com/spacotto/TokenizeArt)
 
 ### Systems & Kernel 
+
+Project | Score 
+:--- | :--- 
