@@ -11,30 +11,36 @@ Project | Score
 ### Milestone 1
 
 
-Project | Score--- | --- | ---
+Project | Score
+--- | --- | ---
 [ft_printf](https://github.com/spacotto/ft_printf) | 100/100
 [get_next_line](https://github.com/spacotto/get_next_line) | 125/100
 [push_swap](https://github.com/spacotto/push_swap) | 125/100
 
 ### Milestone 2
 
-Project | Score--- | --- | ---
+Project | Score
+--- | ---
 
 ### Milestone 3
 
-Project | Score--- | --- | ---
+Project | Score
+--- | ---
 
 ### Milestone 4
 
-Project | Score--- | --- | ---
+Project | Score
+--- | ---
 
 ### Milestone 5
 
-Project | Score--- | --- | ---
+Project | Score
+--- | ---
 
 ### Milestone 6
 
-Project | Score--- | --- | ---
+Project | Score
+--- | ---
 
 ## Post Common Core
 
