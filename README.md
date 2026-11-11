@@ -15,9 +15,9 @@ Milestone 2 | ------------------ | ---------
 | | [Born2beRoot](https://github.com/spacotto/Born2beRoot) | 125/100
 | | [Python Modules](https://github.com/spacotto/Python-Modules) | 100/100
 Milestone 3 | ------------------ | ---------
-| | [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) [125/100]
-| | [Codexion](https://github.com/spacotto/Codexion) [100/100]
-| | [Fly-in](https://github.com/spacotto/Fly-in) [125/100]
+| | [Call Me Maybe](https://github.com/spacotto/CallMeMaybe) | 125/100
+| | [Codexion](https://github.com/spacotto/Codexion) | 100/100
+| | [Fly-in](https://github.com/spacotto/Fly-in) | 125/100
 Milestone 4 | ------------------ | ---------
 | | 
 Milestone 5 | ------------------ | ---------
