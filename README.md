@@ -19,11 +19,16 @@ Milestone 3 | ------------------ | ---------
 | | [Codexion](https://github.com/spacotto/Codexion) | 100/100
 | | [Fly-in](https://github.com/spacotto/Fly-in) | 125/100
 Milestone 4 | ------------------ | ---------
-| | 
+| | [NetPractice](https://github.com/spacotto/NetPractice) | 100/100
+| | [RAG against the machine](https://github.com/spacotto/RAG-against-the-machine) | 125/100
+| | [Pac-Man](https://github.com/spacotto/Pac-Man) | 100/100
 Milestone 5 | ------------------ | ---------
-| | 
+| | [Agent Smith](https://github.com/Thomas-Baricault/42--Agent-Smith) | 100/100
+| | [The Answer Protocol](https://github.com/42-Projects-Nadoho/The-Anwer-Protocol) | 100/100
+| | [Inception](https://github.com/spacotto/Inception) | 100/100
 Milestone 6 | ------------------ | ---------
-| | 
+| | [ft_resume](https://www.linkedin.com/in/silvia-pacotto/) | 125/100
+| | [ft_transcendence](https://github.com/spacotto/ft_transcendence) | 125/100
 
 ## Post Common Core
 
