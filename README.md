@@ -58,6 +58,6 @@ Milestone 6 | ──────── ⋆⋅☆⋅⋆ ──────── 
 | | [Hypertube](https://github.com/42-Projects-Nadoho/hypertube) | ???/100
 | | [Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris) | 125/100
 | | [Swifty Companion](https://github.com/spacotto/swifty-companion) | 110/100
-| | [Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins) | ???/100
+| | [Swifty Proteins](https://github.com/42-Projects-Nadoho/swifty-proteins) | 125/100
 | | [Tokenizer](https://github.com/spacotto/Tokenizer) | ???/100
 | | [TokenizeArt](https://github.com/spacotto/TokenizeArt) | ???/100
