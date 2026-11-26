@@ -54,7 +54,7 @@ Milestone 6 | ──────── ⋆⋅☆⋅⋆ ──────── 
 **Systems & Kernel** | ────── ⋆⋅☆⋅⋆ ────── |
 | | ??? | ???/100
 **Web & Mobile** | ────── ⋆⋅☆⋅⋆ ────── |
-| | Darkly | ???/100
+| | [Darkly](https://github.com/42-Projects-LH/darkly) | ???/100
 | | [Hypertube](https://github.com/42-Projects-Nadoho/hypertube) | ???/100
 | | [Red Tetris](https://github.com/42-Projects-Nadoho/red-tetris) | 125/100
 | | [Swifty Companion](https://github.com/spacotto/swifty-companion) | 110/100
